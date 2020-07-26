@@ -8,6 +8,17 @@ image: cuba-1.jpg
 ---
 
 Sou estudante de graduação no curso de Licenciatura em Matemática pela Universidade Federal de Viçosa - Campus Florestal (UFV, 2017- atualmente).
+# TITULO
+## SUBTITULO
+### SUBSUBTITULO
+*ITALICO* 
+**NEGRITO**
+-TOPICO
+1.texto
+1.texto -texto 
+[NOME REFERENCIA](SITE)
+![imgaem durante o texto](local da imagem)
+
 
 ## Getting Started
 
