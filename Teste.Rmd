@@ -1,0 +1,30 @@
+---
+title: "Olá"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# R Markdown
+
+## subtitulo 
+### subsubtitulo
+
+**Estudante de Matemática**
+
+*7periodo*
+
+[teste](https://fulgenciomath.github.io/)
+
+- primeiro item
+
+- segundo item
+
+![math](https://www.youtz.com.br/wp-content/uploads/2019/10/YOUTZ-MATEMATICA-ENEM.jpg)
+
+
+1. primeiro item
+   - sub-item
+   - sub-item
